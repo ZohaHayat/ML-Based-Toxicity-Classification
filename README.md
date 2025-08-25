@@ -2,7 +2,7 @@
 
 ## Project Description  
 This project tackles online toxicity detection using the Jigsaw Toxic Comment Classification dataset (1.8M+ comments).  
-It classifies harmful content—including insults, threats, and hate speech—in real time using ML models (Naive Bayes, RNNs, BERT).  
+It classifies harmful content, including insults, threats, and hate speech—in real time using ML models (Naive Bayes, RNNs, BERT).  
 The system is deployed as a scalable moderation pipeline with sub-second inference latency and 95% uptime.  
 
 ## Features  
