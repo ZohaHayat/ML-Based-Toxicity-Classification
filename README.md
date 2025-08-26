@@ -9,7 +9,7 @@ The system is deployed as a scalable moderation pipeline with sub-second inferen
 - ⚡ Real-time text classification with sub-second latency  
 - 🛡 Multi-class toxicity detection: mild/severe toxicity, obscenity, threats, insults, identity hate  
 - 📊 Confidence scoring & evaluation metrics (Precision, Recall, F1, AUC-ROC)  
-- ☁️ Scalable architecture: 10K+ daily analyses, concurrent users, 95% uptime  
+- ☁️ Scalable architecture: 10K+ daily analyses, concurrent users, 95% uptime 
 - 🔧 Deployable moderation system (Java/Python APIs)    
 
 ## Technologies Used  
